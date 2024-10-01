@@ -1109,6 +1109,7 @@ section.blog {
             font-size: 1.1rem;
 
             & > i {
+              color: var(--span-color);
               margin-right: 0.5rem;
             }
           }
