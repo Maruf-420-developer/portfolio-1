@@ -440,6 +440,7 @@ section.services div.container {
 section.services div.container>div::before {
   content: "";
   position: absolute;
+  left: 5.5%;
   bottom: -0.2rem;
   border-bottom: 2px solid var(--span-color);
   width: 89%;
